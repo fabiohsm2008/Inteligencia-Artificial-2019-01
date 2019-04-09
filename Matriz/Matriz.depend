@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1554767871 source:d:\trabajos 7mo semestre\inteligencia artificial\matriz\main.cpp
+	<windows.h>
+	<iostream>
+	<math.h>
+	<GL/glut.h>
+	<vector>
+	<time.h>
+	<stdlib.h>
+	<utility>
+	<algorithm>
+	<queue>
+
+1538377573 d:\codeblocks\mingw\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
